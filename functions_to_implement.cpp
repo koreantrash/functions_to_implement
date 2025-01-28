@@ -1,6 +1,9 @@
 #include <iostream>
 #include <vector>
 #include "functions_to_implement.h"
+
+//Github Respository: https://github.com/koreantrash/functions_to_implement
+
 /* String functions section */
 
 // Splits a single string on separator into a vector of strings
